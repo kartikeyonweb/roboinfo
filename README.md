@@ -1,8 +1,8 @@
 # Roboinfo app
 To run this app
-1. Run npm install
+1. Run `npm install`
 
-2. Run npm start
+2. Run `npm start`
 
 To deploy use
-1. Run npm run deploy
+1. Run `npm run deploy`
